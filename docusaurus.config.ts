@@ -74,7 +74,13 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/brazyboi/mm-docs',
+          type: 'docSidebar',
+          sidebarId: 'contributionGuide',
+          position: 'left',
+          label: 'Contributing'
+        },
+        {
+          href: 'https://github.com/uci-micromouse/mm-docs',
           label: 'GitHub',
           position: 'right',
         },
