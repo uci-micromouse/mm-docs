@@ -2,8 +2,6 @@
 sidebar_position: 2
 ---
 
-Hello, this is a test page!
-
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
