@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 Hello, this is a test page!
